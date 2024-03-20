@@ -67,7 +67,7 @@ This Git repo contains an Ansible playbook and necessary files for deploying an 
 # Deployment
 
 1. **Git Repo Clone**
- - Clone this repo to your control machine using `git clone https://github.com/Jeevanandh007/Network-CA1.git` command.
+ - Clone this repo to your control machine using `git clone https://github.com/Najeebvm/automated_container_deployment.git` command.
  
  # Files
 
